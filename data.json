@@ -1,0 +1,20 @@
+[
+  "df-root",
+  "disk-sda",
+  "disk-sda1",
+  "interface-eth0",
+  "df-mnt-resource",
+  "entropy",
+  "memory",
+  "swap",
+  "load",
+  "irq",
+  "cpu-0",
+  "disk-loop0",
+  "interface-lo",
+  "disk-sdb1",
+  "users",
+  "processes",
+  "df-var-local-ftp-audio",
+  "disk-sdb"
+]
