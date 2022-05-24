@@ -1,5 +1,5 @@
 {
-    "endereco_rrd":"/home/arihe/Documentos/collectd-enghouse-2/User0/",
-    "endereco_data":"/home/arihe/Documentos/dados",
+    "endereco_rrd":"/home/user/Documentos/collectd/User0/",
+    "endereco_data":"/home/user/Documentos/dados",
     "tempo_inicial":"-168hr"
 }
